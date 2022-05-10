@@ -1,6 +1,9 @@
 .vscode/
 .idea/
 test.*
+test/
+ts/
+ts.*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
